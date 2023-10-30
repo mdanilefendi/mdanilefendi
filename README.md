@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mohamad Danil Efendi.<br>I'm a MERN Stack Developer, IT Support and Engineering Student.</h2>
+<h2 align="center">Hi 👋! My name is Mohamad Danil Efendi.<br>I'm a MERN Stack Developer, IT Specialist and Engineering Student.</h2>
 
 ###
 
